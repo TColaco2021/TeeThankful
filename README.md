@@ -1,5 +1,5 @@
 Hi, I’m Terence Colaco and I am currently enjoying the cybersecurity bootcamp program through the University of Toronto. I will complete the program in December of 2021 and 
-and can't wait to begin my cybersecurity career.
+and can't wait to begin my cybersecurity career. In my present role I am working towards becoming a certified IMIS software admin to obtain some more practical day to day workplace experiences with IT administration.
 
 I’m interested in becoming a SOC analyst as I am fascinated by the prospect of working within a team to monitor and fight threats to an organization's IT infrastructure. 
 Identifying security weaknesses and opportunities for potential improvements appeal to my curious, proactive and competitive nature as well. 
