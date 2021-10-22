@@ -8,6 +8,8 @@ I’m currently gaining experience with a host of popular tools such as Wireshar
 has been challenging and very rewarding. I've enjoyed this multidisciplinary approach in attaining proficiency in IT, networking, and modern information security, 
 throughout the course. I am earning skills applicable to certifications such as the CompTIA Security+, Network+, Linux+, Server+, Cloud+ and certified Ethical Hacker (CEH).
 
+Upon graduation I intend to initially pursue my CompTIA Security+ certification to further cement my skills learned during the boot camp.
+
 I’m looking to network with prospective and current IT industry professionals to learn and share experiences and knowledge. Any conversation would be appreciated as I
 continue to humbly and passionately enjoy my journey.
 
